@@ -1,0 +1,51 @@
+*{
+	padding: 0px;
+	margin: 0px;
+}
+
+.outer{
+	width:800px;
+	height: 1000px;
+	border: 4px solid black;
+	margin:0px auto;
+	background-color: palegoldenrod;
+	padding: 100px;
+}
+.outer h3{
+	text-align: center;
+}
+.outer h5{
+	text-align: center;
+}
+.border{
+	width:780px;
+	padding:8px;
+	text-align:center;
+	background-color: skyblue;
+	border: 2px solid black;
+	font-weight: bold;
+
+}
+
+.image p{
+	padding: 10px;
+	padding-left: 10%;
+	text-align: left;
+}
+
+.obb{
+	padding: 10px;
+	margin-left: 10%;
+	text-align: left;
+	
+}
+.table table,th,td{
+	        padding:8px;
+			border: 1px solid black;
+			background-color: pink;
+			text-align: center;
+		}
+ul{
+	font-size: 20px;
+	margin-left:10%;
+}
